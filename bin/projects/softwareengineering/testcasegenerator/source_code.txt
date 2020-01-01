@@ -1,0 +1,17 @@
+public class Test{
+	
+	public void check(int a){
+		int x,y,z;
+		int w;
+		int s,t=0;
+		int w=s;
+		int b=10;
+		if(a>b){
+			System.out.println("A is greater than B");
+		}else if(a<b && a>0){
+			System.out.println("B is greater than A");		
+		}else{
+			System.out.println("B is greater than A");		
+		}
+	}
+}
